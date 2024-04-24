@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @New3n12
+- 👋 Hi, I’m Juan Diego
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning programming
 <!---
